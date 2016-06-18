@@ -1,0 +1,31 @@
+{
+  "name": "2log",
+  "version": "1.0.0",
+  "description": "Logger",
+  "main": "index.js",
+  "dependencies": {
+    "ivanoff-config": "^1.0.1",
+    "moment-timezone": "^0.5.4",
+    "winston": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanoff/2log"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "should": "^9.0.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": {
+    "name": "Dimitry Ivanov",
+    "email": "2@ivanoff.org.ua",
+    "cv": "curl -A cv ivanoff.org.ua"
+  }
+}
