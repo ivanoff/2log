@@ -1,6 +1,6 @@
 # Log
 
-v.1.0.0
+v.1.0.1
 
 ## Install
 
@@ -12,7 +12,7 @@ v.1.0.0
 `cat index.js`
 
 ```javascript
-var log = require('ivanoff-log');
+var log = require('2log');
 
 log.info('just info');
 log.error('something wrong');

@@ -1,5 +1,14 @@
 # 2pid changelog
 
+## [1.0.1](link/1.0.1) (2016-06-17)
+[Full Changelog](/compare/1.0.0...1.0.1)
+
+**What Was Done:**
+
+- update example of using
+- checking config variables
+- add default and test config files
+
 ## [1.0.0](link/1.0.0) (2016-06-17)
 [Full Changelog](/compare/master...1.0.0)
 

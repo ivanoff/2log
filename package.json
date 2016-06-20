@@ -1,10 +1,10 @@
 {
   "name": "2log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Logger",
   "main": "index.js",
   "dependencies": {
-    "ivanoff-config": "^1.0.1",
+    "2conf": "^1.0.0",
     "moment-timezone": "^0.5.4",
     "winston": "^2.2.0"
   },
