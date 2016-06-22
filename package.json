@@ -1,10 +1,10 @@
 {
   "name": "2log",
-  "version": "1.0.2",
+  "version": "1.1.2",
   "description": "Logger",
   "main": "index.js",
   "dependencies": {
-    "2conf": "^1.0.0",
+    "2conf": "^1.0.1",
     "moment-timezone": "^0.5.4",
     "winston": "^2.2.0"
   },
