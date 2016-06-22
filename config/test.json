@@ -1,0 +1,7 @@
+{
+  "indexMessage":"Hello test World!",
+  "port":3101,
+  "log":{
+    "full":"/dev/null"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "indexMessage":"Hello default World!",
+  "port":3100,
+  "log":{
+    "full":"./log.log"
+  }
+}
